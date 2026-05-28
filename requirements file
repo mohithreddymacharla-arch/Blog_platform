@@ -1,0 +1,80 @@
+# Software Requirements
+
+1. Node.js
+2. npm (Node Package Manager)
+3. MongoDB Community Server
+4. VS Code
+5. Git
+6. GitHub Account
+7. Web Browser (Chrome Recommended)
+
+------------------------------------------------
+
+# Backend Packages
+
+express
+mongoose
+cors
+dotenv
+bcryptjs
+jsonwebtoken
+nodemon
+
+Install using:
+
+npm install express mongoose cors dotenv bcryptjs jsonwebtoken nodemon
+
+------------------------------------------------
+
+# Frontend Packages
+
+react-router-dom
+axios
+bootstrap
+
+Install using:
+
+npm install axios react-router-dom bootstrap
+
+------------------------------------------------
+
+# System Requirements
+
+Operating System:
+- Windows / macOS / Linux
+
+RAM:
+- Minimum 4GB
+
+Storage:
+- Minimum 1GB Free Space
+
+Internet:
+- Required for package installation
+
+------------------------------------------------
+
+# Database Requirement
+
+MongoDB Local Database
+
+Connection String:
+
+mongodb://127.0.0.1:27017/blogplatform
+
+------------------------------------------------
+
+# Development Tools
+
+- Visual Studio Code
+- MongoDB Compass (Optional)
+- Postman API Tester (Optional)
+
+------------------------------------------------
+
+# Browser Support
+
+- Google Chrome
+- Microsoft Edge
+- Firefox
+- Safari
